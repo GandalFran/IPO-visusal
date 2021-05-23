@@ -56,7 +56,6 @@ var tooltip = d3.select("body").append("div").attr("class", "tooltip").style("op
 
 // x-axis
 svg.append("g")
-    .attr("class", "x axis")
     .attr("transform", "translate(0," + height + ")")
     .call(x_axis)
   .append("text")
@@ -68,7 +67,6 @@ svg.append("g")
 
 // y-axis
 svg.append("g")
-    .attr("class", "y axis")
     .call(y_axis)
   .append("text")
     .attr("class", "label")
@@ -76,7 +74,7 @@ svg.append("g")
     .attr("y", 6)
     .attr("dy", ".71em")
     .style("text-anchor", "end")
-  .text("Vaccine coverage (%)");
+  .text("Cobertura de vacunación (%)");
 
 // draw dots
 svg.selectAll(".dot")
@@ -184,7 +182,14 @@ var svg = d3.select("#preventable_child_deaths_from_vaccination").append("svg")
   // add the x Axis
   svg.append("g")
       .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x));
+      .call(d3.axisBottom(x))
+      .append("text")
+        .attr("class", "label")
+        .attr("x", width)
+        .attr("y", -6)
+        .style("text-anchor", "end")
+        .style("fill", "black")
+        .text("Número de muertes infantiles prevenibles por vacunación");
 
   // add the y Axis
   svg.append("g")
