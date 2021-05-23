@@ -10,18 +10,11 @@ jobs:
     steps:  
     - name: download new changes
       uses: actions/checkout@v2
-  build:
-    runs-on: [self-hosted, linux, x64]  
-    needs: download
-    steps:  
-    - name: install dependencies
-      run: npm install
-      working-directory: ipo-visusal
-  restart:
+  move_files:
     runs-on: [self-hosted, linux, x64]
-    needs: build
+    needs: download
     steps:
-    - name: restart
-      run: sudo pm2 restart pm2.json
-    - name: save process status
-      run: sudo pm2 save
+    - name: remove previous data
+      run: sudo rm -rf /var/www/html/*
+    - name: copy files to apache
+      run: sudo cp -R web/* /var/www/html/
