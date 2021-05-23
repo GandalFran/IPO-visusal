@@ -1,0 +1,878 @@
+[
+    {
+        "country": "Afghanistan",
+        "deaths_for_no_vaccination": 642.0
+    },
+    {
+        "country": "Albania",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Algeria",
+        "deaths_for_no_vaccination": 33.0
+    },
+    {
+        "country": "American Samoa",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Andorra",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Angola",
+        "deaths_for_no_vaccination": 874.0
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Argentina",
+        "deaths_for_no_vaccination": 13.0
+    },
+    {
+        "country": "Armenia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Australia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Austria",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Azerbaijan",
+        "deaths_for_no_vaccination": 20.0
+    },
+    {
+        "country": "Bahamas",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Bahrain",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Bangladesh",
+        "deaths_for_no_vaccination": 598.0
+    },
+    {
+        "country": "Barbados",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Belarus",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Belgium",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Belize",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Benin",
+        "deaths_for_no_vaccination": 1380.0
+    },
+    {
+        "country": "Bermuda",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Bhutan",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Bolivia",
+        "deaths_for_no_vaccination": 10.0
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Botswana",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Brazil",
+        "deaths_for_no_vaccination": 22.0
+    },
+    {
+        "country": "Brunei",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Bulgaria",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Burkina Faso",
+        "deaths_for_no_vaccination": 689.0
+    },
+    {
+        "country": "Burundi",
+        "deaths_for_no_vaccination": 327.0
+    },
+    {
+        "country": "Cambodia",
+        "deaths_for_no_vaccination": 73.0
+    },
+    {
+        "country": "Cameroon",
+        "deaths_for_no_vaccination": 753.0
+    },
+    {
+        "country": "Canada",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Cape Verde",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Caribbean",
+        "deaths_for_no_vaccination": 90.0
+    },
+    {
+        "country": "Central African Republic",
+        "deaths_for_no_vaccination": 942.0
+    },
+    {
+        "country": "Central Asia",
+        "deaths_for_no_vaccination": 101.0
+    },
+    {
+        "country": "Central Europe",
+        "deaths_for_no_vaccination": 19.0
+    },
+    {
+        "country": "Central Sub-Saharan Africa",
+        "deaths_for_no_vaccination": 11188.0
+    },
+    {
+        "country": "Chad",
+        "deaths_for_no_vaccination": 3235.0
+    },
+    {
+        "country": "Chile",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "China",
+        "deaths_for_no_vaccination": 56.0
+    },
+    {
+        "country": "Colombia",
+        "deaths_for_no_vaccination": 8.0
+    },
+    {
+        "country": "Comoros",
+        "deaths_for_no_vaccination": 14.0
+    },
+    {
+        "country": "Congo",
+        "deaths_for_no_vaccination": 117.0
+    },
+    {
+        "country": "Costa Rica",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "deaths_for_no_vaccination": 1301.0
+    },
+    {
+        "country": "Croatia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Cuba",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Cyprus",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Czechia",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "deaths_for_no_vaccination": 9217.0
+    },
+    {
+        "country": "Denmark",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Djibouti",
+        "deaths_for_no_vaccination": 9.0
+    },
+    {
+        "country": "Dominica",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Dominican Republic",
+        "deaths_for_no_vaccination": 16.0
+    },
+    {
+        "country": "East Asia",
+        "deaths_for_no_vaccination": 190.0
+    },
+    {
+        "country": "Eastern Europe",
+        "deaths_for_no_vaccination": 41.0
+    },
+    {
+        "country": "Eastern Sub-Saharan Africa",
+        "deaths_for_no_vaccination": 6976.0
+    },
+    {
+        "country": "Ecuador",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Egypt",
+        "deaths_for_no_vaccination": 690.0
+    },
+    {
+        "country": "El Salvador",
+        "deaths_for_no_vaccination": 3.0
+    },
+    {
+        "country": "England",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Equatorial Guinea",
+        "deaths_for_no_vaccination": 4.0
+    },
+    {
+        "country": "Eritrea",
+        "deaths_for_no_vaccination": 19.0
+    },
+    {
+        "country": "Estonia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Eswatini",
+        "deaths_for_no_vaccination": 22.0
+    },
+    {
+        "country": "Ethiopia",
+        "deaths_for_no_vaccination": 1545.0
+    },
+    {
+        "country": "Fiji",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Finland",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "France",
+        "deaths_for_no_vaccination": 14.0
+    },
+    {
+        "country": "Gabon",
+        "deaths_for_no_vaccination": 34.0
+    },
+    {
+        "country": "Gambia",
+        "deaths_for_no_vaccination": 11.0
+    },
+    {
+        "country": "Georgia",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Germany",
+        "deaths_for_no_vaccination": 3.0
+    },
+    {
+        "country": "Ghana",
+        "deaths_for_no_vaccination": 130.0
+    },
+    {
+        "country": "Greece",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Greenland",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Grenada",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Guam",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Guatemala",
+        "deaths_for_no_vaccination": 16.0
+    },
+    {
+        "country": "Guinea",
+        "deaths_for_no_vaccination": 649.0
+    },
+    {
+        "country": "Guinea-Bissau",
+        "deaths_for_no_vaccination": 76.0
+    },
+    {
+        "country": "Guyana",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Haiti",
+        "deaths_for_no_vaccination": 65.0
+    },
+    {
+        "country": "High-income",
+        "deaths_for_no_vaccination": 69.0
+    },
+    {
+        "country": "High-income Asia Pacific",
+        "deaths_for_no_vaccination": 8.0
+    },
+    {
+        "country": "Honduras",
+        "deaths_for_no_vaccination": 7.0
+    },
+    {
+        "country": "Hungary",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Iceland",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "India",
+        "deaths_for_no_vaccination": 7712.0
+    },
+    {
+        "country": "Indonesia",
+        "deaths_for_no_vaccination": 1523.0
+    },
+    {
+        "country": "Iran",
+        "deaths_for_no_vaccination": 119.0
+    },
+    {
+        "country": "Iraq",
+        "deaths_for_no_vaccination": 167.0
+    },
+    {
+        "country": "Ireland",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Israel",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Italy",
+        "deaths_for_no_vaccination": 3.0
+    },
+    {
+        "country": "Jamaica",
+        "deaths_for_no_vaccination": 3.0
+    },
+    {
+        "country": "Japan",
+        "deaths_for_no_vaccination": 6.0
+    },
+    {
+        "country": "Jordan",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Kazakhstan",
+        "deaths_for_no_vaccination": 7.0
+    },
+    {
+        "country": "Kenya",
+        "deaths_for_no_vaccination": 455.0
+    },
+    {
+        "country": "Kiribati",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Kuwait",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Kyrgyzstan",
+        "deaths_for_no_vaccination": 18.0
+    },
+    {
+        "country": "Laos",
+        "deaths_for_no_vaccination": 252.0
+    },
+    {
+        "country": "Latin America and the Caribbean",
+        "deaths_for_no_vaccination": 308.0
+    },
+    {
+        "country": "Latvia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Lebanon",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Lesotho",
+        "deaths_for_no_vaccination": 108.0
+    },
+    {
+        "country": "Liberia",
+        "deaths_for_no_vaccination": 408.0
+    },
+    {
+        "country": "Libya",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Lithuania",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Luxembourg",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Madagascar",
+        "deaths_for_no_vaccination": 636.0
+    },
+    {
+        "country": "Malawi",
+        "deaths_for_no_vaccination": 181.0
+    },
+    {
+        "country": "Malaysia",
+        "deaths_for_no_vaccination": 6.0
+    },
+    {
+        "country": "Maldives",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Mali",
+        "deaths_for_no_vaccination": 671.0
+    },
+    {
+        "country": "Malta",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Marshall Islands",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Mauritania",
+        "deaths_for_no_vaccination": 106.0
+    },
+    {
+        "country": "Mauritius",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Mexico",
+        "deaths_for_no_vaccination": 84.0
+    },
+    {
+        "country": "Micronesia (region)",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Moldova",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Mongolia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Montenegro",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Morocco",
+        "deaths_for_no_vaccination": 28.0
+    },
+    {
+        "country": "Mozambique",
+        "deaths_for_no_vaccination": 553.0
+    },
+    {
+        "country": "Myanmar",
+        "deaths_for_no_vaccination": 247.0
+    },
+    {
+        "country": "Namibia",
+        "deaths_for_no_vaccination": 36.0
+    },
+    {
+        "country": "Nepal",
+        "deaths_for_no_vaccination": 122.0
+    },
+    {
+        "country": "Netherlands",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "New Zealand",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Nicaragua",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Niger",
+        "deaths_for_no_vaccination": 1955.0
+    },
+    {
+        "country": "Nigeria",
+        "deaths_for_no_vaccination": 36428.0
+    },
+    {
+        "country": "North Africa and Middle East",
+        "deaths_for_no_vaccination": 2502.0
+    },
+    {
+        "country": "North America",
+        "deaths_for_no_vaccination": 13.0
+    },
+    {
+        "country": "North Korea",
+        "deaths_for_no_vaccination": 132.0
+    },
+    {
+        "country": "North Macedonia",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Northern Ireland",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Norway",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Oceania",
+        "deaths_for_no_vaccination": 63.0
+    },
+    {
+        "country": "Oman",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Pakistan",
+        "deaths_for_no_vaccination": 1659.0
+    },
+    {
+        "country": "Palestine",
+        "deaths_for_no_vaccination": 5.0
+    },
+    {
+        "country": "Panama",
+        "deaths_for_no_vaccination": 6.0
+    },
+    {
+        "country": "Papua New Guinea",
+        "deaths_for_no_vaccination": 55.0
+    },
+    {
+        "country": "Paraguay",
+        "deaths_for_no_vaccination": 3.0
+    },
+    {
+        "country": "Peru",
+        "deaths_for_no_vaccination": 4.0
+    },
+    {
+        "country": "Philippines",
+        "deaths_for_no_vaccination": 341.0
+    },
+    {
+        "country": "Poland",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Portugal",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Puerto Rico",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Qatar",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Romania",
+        "deaths_for_no_vaccination": 12.0
+    },
+    {
+        "country": "Russia",
+        "deaths_for_no_vaccination": 37.0
+    },
+    {
+        "country": "Rwanda",
+        "deaths_for_no_vaccination": 57.0
+    },
+    {
+        "country": "Saint Lucia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Samoa",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Saudi Arabia",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Scotland",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Senegal",
+        "deaths_for_no_vaccination": 252.0
+    },
+    {
+        "country": "Serbia",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Seychelles",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Sierra Leone",
+        "deaths_for_no_vaccination": 439.0
+    },
+    {
+        "country": "Singapore",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Slovakia",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Slovenia",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Solomon Islands",
+        "deaths_for_no_vaccination": 4.0
+    },
+    {
+        "country": "Somalia",
+        "deaths_for_no_vaccination": 396.0
+    },
+    {
+        "country": "South Africa",
+        "deaths_for_no_vaccination": 85.0
+    },
+    {
+        "country": "South Asia",
+        "deaths_for_no_vaccination": 10093.0
+    },
+    {
+        "country": "South Korea",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "South Sudan",
+        "deaths_for_no_vaccination": 700.0
+    },
+    {
+        "country": "Southeast Asia",
+        "deaths_for_no_vaccination": 2539.0
+    },
+    {
+        "country": "Southern Latin America",
+        "deaths_for_no_vaccination": 16.0
+    },
+    {
+        "country": "Southern Sub-Saharan Africa",
+        "deaths_for_no_vaccination": 409.0
+    },
+    {
+        "country": "Spain",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Sri Lanka",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Sub-Saharan Africa",
+        "deaths_for_no_vaccination": 67234.0
+    },
+    {
+        "country": "Sudan",
+        "deaths_for_no_vaccination": 217.0
+    },
+    {
+        "country": "Suriname",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Sweden",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Switzerland",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Syria",
+        "deaths_for_no_vaccination": 4.0
+    },
+    {
+        "country": "Taiwan",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Tajikistan",
+        "deaths_for_no_vaccination": 41.0
+    },
+    {
+        "country": "Tanzania",
+        "deaths_for_no_vaccination": 255.0
+    },
+    {
+        "country": "Thailand",
+        "deaths_for_no_vaccination": 19.0
+    },
+    {
+        "country": "Timor",
+        "deaths_for_no_vaccination": 41.0
+    },
+    {
+        "country": "Togo",
+        "deaths_for_no_vaccination": 174.0
+    },
+    {
+        "country": "Tonga",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Tunisia",
+        "deaths_for_no_vaccination": 3.0
+    },
+    {
+        "country": "Turkey",
+        "deaths_for_no_vaccination": 30.0
+    },
+    {
+        "country": "Turkmenistan",
+        "deaths_for_no_vaccination": 13.0
+    },
+    {
+        "country": "Uganda",
+        "deaths_for_no_vaccination": 1639.0
+    },
+    {
+        "country": "Ukraine",
+        "deaths_for_no_vaccination": 4.0
+    },
+    {
+        "country": "United Arab Emirates",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "United States",
+        "deaths_for_no_vaccination": 12.0
+    },
+    {
+        "country": "United States Virgin Islands",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Uruguay",
+        "deaths_for_no_vaccination": 1.0
+    },
+    {
+        "country": "Uzbekistan",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Vanuatu",
+        "deaths_for_no_vaccination": 2.0
+    },
+    {
+        "country": "Venezuela",
+        "deaths_for_no_vaccination": 49.0
+    },
+    {
+        "country": "Vietnam",
+        "deaths_for_no_vaccination": 34.0
+    },
+    {
+        "country": "Wales",
+        "deaths_for_no_vaccination": 0.0
+    },
+    {
+        "country": "Western Europe",
+        "deaths_for_no_vaccination": 31.0
+    },
+    {
+        "country": "Western Sub-Saharan Africa",
+        "deaths_for_no_vaccination": 48660.0
+    },
+    {
+        "country": "World",
+        "deaths_for_no_vaccination": 83158.0
+    },
+    {
+        "country": "Yemen",
+        "deaths_for_no_vaccination": 558.0
+    },
+    {
+        "country": "Zambia",
+        "deaths_for_no_vaccination": 192.0
+    },
+    {
+        "country": "Zimbabwe",
+        "deaths_for_no_vaccination": 157.0
+    }
+]

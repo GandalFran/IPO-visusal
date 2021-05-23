@@ -1,0 +1,1137 @@
+[
+    {
+        "country": "Abkhazia",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Afghanistan",
+        "doctor_trust_percentage": 73.44,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Akrotiri and Dhekelia",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Albania",
+        "doctor_trust_percentage": 67.54,
+        "vaccine_disagreement_percentage": 16.0
+    },
+    {
+        "country": "Algeria",
+        "doctor_trust_percentage": 64.21,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Angola",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Antarctica",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Argentina",
+        "doctor_trust_percentage": 89.4,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Armenia",
+        "doctor_trust_percentage": 74.02,
+        "vaccine_disagreement_percentage": 21.0
+    },
+    {
+        "country": "Australia",
+        "doctor_trust_percentage": 95.97,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Australia/New Zealand",
+        "doctor_trust_percentage": 96.0,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Austria",
+        "doctor_trust_percentage": 93.89,
+        "vaccine_disagreement_percentage": 21.0
+    },
+    {
+        "country": "Austria-Hungary",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Azerbaijan",
+        "doctor_trust_percentage": 82.42,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Baden",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Bahrain",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Bangladesh",
+        "doctor_trust_percentage": 89.73,
+        "vaccine_disagreement_percentage": 1.0
+    },
+    {
+        "country": "Bavaria",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Belarus",
+        "doctor_trust_percentage": 77.73,
+        "vaccine_disagreement_percentage": 15.0
+    },
+    {
+        "country": "Belgium",
+        "doctor_trust_percentage": 96.73,
+        "vaccine_disagreement_percentage": 21.0
+    },
+    {
+        "country": "Benin",
+        "doctor_trust_percentage": 49.77,
+        "vaccine_disagreement_percentage": 14.0
+    },
+    {
+        "country": "Bolivia",
+        "doctor_trust_percentage": 64.4,
+        "vaccine_disagreement_percentage": 13.0
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "doctor_trust_percentage": 75.46,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Botswana",
+        "doctor_trust_percentage": 64.75,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Bouvet Island",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Brazil",
+        "doctor_trust_percentage": 72.63,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Bulgaria",
+        "doctor_trust_percentage": 80.8,
+        "vaccine_disagreement_percentage": 16.0
+    },
+    {
+        "country": "Burkina Faso",
+        "doctor_trust_percentage": 74.76,
+        "vaccine_disagreement_percentage": 21.0
+    },
+    {
+        "country": "Burundi",
+        "doctor_trust_percentage": 66.13,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Cambodia",
+        "doctor_trust_percentage": 82.49,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Cameroon",
+        "doctor_trust_percentage": 63.28,
+        "vaccine_disagreement_percentage": 13.0
+    },
+    {
+        "country": "Canada",
+        "doctor_trust_percentage": 94.26,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Central Africa",
+        "doctor_trust_percentage": 57.0,
+        "vaccine_disagreement_percentage": 14.0
+    },
+    {
+        "country": "Central African Republic",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Central America and Mexico",
+        "doctor_trust_percentage": 81.0,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Central Asia",
+        "doctor_trust_percentage": 87.0,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Chad",
+        "doctor_trust_percentage": 51.87,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Chile",
+        "doctor_trust_percentage": 75.7,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "China",
+        "doctor_trust_percentage": 78.09,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Christmas Island",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Cocos Islands",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Colombia",
+        "doctor_trust_percentage": 70.36,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Congo",
+        "doctor_trust_percentage": 43.43,
+        "vaccine_disagreement_percentage": 18.0
+    },
+    {
+        "country": "Costa Rica",
+        "doctor_trust_percentage": 84.79,
+        "vaccine_disagreement_percentage": 6.0
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "doctor_trust_percentage": 54.73,
+        "vaccine_disagreement_percentage": 16.0
+    },
+    {
+        "country": "Croatia",
+        "doctor_trust_percentage": 91.47,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Cuba",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Cyprus",
+        "doctor_trust_percentage": 74.41,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Czechia",
+        "doctor_trust_percentage": 90.89,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Czechoslovakia",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Denmark",
+        "doctor_trust_percentage": 97.15,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Dominican Republic",
+        "doctor_trust_percentage": 84.22,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "East Asia",
+        "doctor_trust_percentage": 80.0,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "East Germany",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Eastern Africa",
+        "doctor_trust_percentage": 81.0,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Eastern Europe",
+        "doctor_trust_percentage": 75.0,
+        "vaccine_disagreement_percentage": 17.0
+    },
+    {
+        "country": "Ecuador",
+        "doctor_trust_percentage": 75.14,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Egypt",
+        "doctor_trust_percentage": 90.68,
+        "vaccine_disagreement_percentage": 1.0
+    },
+    {
+        "country": "El Salvador",
+        "doctor_trust_percentage": 75.47,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Equatorial Guinea",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Eritrea",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Eritrea and Ethiopia",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Estonia",
+        "doctor_trust_percentage": 87.78,
+        "vaccine_disagreement_percentage": 13.0
+    },
+    {
+        "country": "Eswatini",
+        "doctor_trust_percentage": 84.5,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Ethiopia",
+        "doctor_trust_percentage": 86.14,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Finland",
+        "doctor_trust_percentage": 96.76,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "France",
+        "doctor_trust_percentage": 94.62,
+        "vaccine_disagreement_percentage": 33.0
+    },
+    {
+        "country": "French Southern Territories",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Gabon",
+        "doctor_trust_percentage": 50.36,
+        "vaccine_disagreement_percentage": 26.0
+    },
+    {
+        "country": "Gambia",
+        "doctor_trust_percentage": 82.52,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Georgia",
+        "doctor_trust_percentage": 79.96,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Germany",
+        "doctor_trust_percentage": 93.94,
+        "vaccine_disagreement_percentage": 13.0
+    },
+    {
+        "country": "Ghana",
+        "doctor_trust_percentage": 88.78,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Greece",
+        "doctor_trust_percentage": 86.2,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Guatemala",
+        "doctor_trust_percentage": 69.37,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Guinea",
+        "doctor_trust_percentage": 68.23,
+        "vaccine_disagreement_percentage": 14.0
+    },
+    {
+        "country": "Guinea-Bissau",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Haiti",
+        "doctor_trust_percentage": 79.87,
+        "vaccine_disagreement_percentage": 20.0
+    },
+    {
+        "country": "Hanover",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Hesse Electoral",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Hesse Grand Ducal",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Honduras",
+        "doctor_trust_percentage": 77.44,
+        "vaccine_disagreement_percentage": 6.0
+    },
+    {
+        "country": "Hong Kong",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Hungary",
+        "doctor_trust_percentage": 89.36,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "India",
+        "doctor_trust_percentage": 92.5,
+        "vaccine_disagreement_percentage": 2.0
+    },
+    {
+        "country": "Indonesia",
+        "doctor_trust_percentage": 83.22,
+        "vaccine_disagreement_percentage": 6.0
+    },
+    {
+        "country": "Iran",
+        "doctor_trust_percentage": 86.73,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Iraq",
+        "doctor_trust_percentage": 63.5,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Ireland",
+        "doctor_trust_percentage": 93.32,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Israel",
+        "doctor_trust_percentage": 88.43,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Italy",
+        "doctor_trust_percentage": 90.45,
+        "vaccine_disagreement_percentage": 14.0
+    },
+    {
+        "country": "Jamaica",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Japan",
+        "doctor_trust_percentage": 93.01,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Jordan",
+        "doctor_trust_percentage": 81.94,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Kazakhstan",
+        "doctor_trust_percentage": 79.81,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Kenya",
+        "doctor_trust_percentage": 78.38,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Kosovo",
+        "doctor_trust_percentage": 75.95,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Kuwait",
+        "doctor_trust_percentage": 74.08,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Kyrgyzstan",
+        "doctor_trust_percentage": 83.42,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Laos",
+        "doctor_trust_percentage": 81.42,
+        "vaccine_disagreement_percentage": 2.0
+    },
+    {
+        "country": "Latvia",
+        "doctor_trust_percentage": 83.12,
+        "vaccine_disagreement_percentage": 17.0
+    },
+    {
+        "country": "Lebanon",
+        "doctor_trust_percentage": 82.87,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Lesotho",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Liberia",
+        "doctor_trust_percentage": 80.78,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Libya",
+        "doctor_trust_percentage": 77.03,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Lithuania",
+        "doctor_trust_percentage": 83.15,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Madagascar",
+        "doctor_trust_percentage": 65.9,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Malawi",
+        "doctor_trust_percentage": 76.69,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Malaysia",
+        "doctor_trust_percentage": 94.67,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Mali",
+        "doctor_trust_percentage": 75.4,
+        "vaccine_disagreement_percentage": 17.0
+    },
+    {
+        "country": "Mauritania",
+        "doctor_trust_percentage": 53.83,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Mauritius",
+        "doctor_trust_percentage": 64.51,
+        "vaccine_disagreement_percentage": 17.0
+    },
+    {
+        "country": "Mecklenburg Schwerin",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Mexico",
+        "doctor_trust_percentage": 83.27,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Middle East",
+        "doctor_trust_percentage": 81.0,
+        "vaccine_disagreement_percentage": 6.0
+    },
+    {
+        "country": "Modena",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Moldova",
+        "doctor_trust_percentage": 73.62,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Mongolia",
+        "doctor_trust_percentage": 80.97,
+        "vaccine_disagreement_percentage": 16.0
+    },
+    {
+        "country": "Morocco",
+        "doctor_trust_percentage": 67.41,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Mozambique",
+        "doctor_trust_percentage": 73.98,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Myanmar",
+        "doctor_trust_percentage": 91.52,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Nagorno-Karabakh",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Namibia",
+        "doctor_trust_percentage": 73.43,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Nepal",
+        "doctor_trust_percentage": 89.59,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Netherlands",
+        "doctor_trust_percentage": 91.89,
+        "vaccine_disagreement_percentage": 17.0
+    },
+    {
+        "country": "Netherlands Antilles",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "New Zealand",
+        "doctor_trust_percentage": 95.22,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Nicaragua",
+        "doctor_trust_percentage": 69.81,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Niger",
+        "doctor_trust_percentage": 75.8,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Nigeria",
+        "doctor_trust_percentage": 82.0,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Norfolk Island",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "North Africa",
+        "doctor_trust_percentage": 80.0,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "North Korea",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "North Macedonia",
+        "doctor_trust_percentage": 72.78,
+        "vaccine_disagreement_percentage": 14.0
+    },
+    {
+        "country": "Northern America",
+        "doctor_trust_percentage": 94.0,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Northern Cyprus",
+        "doctor_trust_percentage": 78.29,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Northern Europe",
+        "doctor_trust_percentage": 93.0,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Norway",
+        "doctor_trust_percentage": 98.2,
+        "vaccine_disagreement_percentage": 6.0
+    },
+    {
+        "country": "Oman",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Pakistan",
+        "doctor_trust_percentage": 85.37,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Palestine",
+        "doctor_trust_percentage": 74.58,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Panama",
+        "doctor_trust_percentage": 73.17,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Papua New Guinea",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Paraguay",
+        "doctor_trust_percentage": 74.58,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Parma",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Peru",
+        "doctor_trust_percentage": 69.05,
+        "vaccine_disagreement_percentage": 17.0
+    },
+    {
+        "country": "Philippines",
+        "doctor_trust_percentage": 86.84,
+        "vaccine_disagreement_percentage": 14.0
+    },
+    {
+        "country": "Pitcairn",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Poland",
+        "doctor_trust_percentage": 88.55,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Portugal",
+        "doctor_trust_percentage": 88.6,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Puerto Rico",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Qatar",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Republic of Vietnam",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Romania",
+        "doctor_trust_percentage": 71.46,
+        "vaccine_disagreement_percentage": 13.0
+    },
+    {
+        "country": "Russia",
+        "doctor_trust_percentage": 71.92,
+        "vaccine_disagreement_percentage": 24.0
+    },
+    {
+        "country": "Rwanda",
+        "doctor_trust_percentage": 93.95,
+        "vaccine_disagreement_percentage": 2.0
+    },
+    {
+        "country": "Saint Barth\u00e9lemy",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Saudi Arabia",
+        "doctor_trust_percentage": 83.99,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Saxony",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Senegal",
+        "doctor_trust_percentage": 81.38,
+        "vaccine_disagreement_percentage": 15.0
+    },
+    {
+        "country": "Serbia",
+        "doctor_trust_percentage": 80.9,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Serbia and Montenegro",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Serbia excluding Kosovo",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Sierra Leone",
+        "doctor_trust_percentage": 71.72,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Singapore",
+        "doctor_trust_percentage": 94.71,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Slovakia",
+        "doctor_trust_percentage": 86.78,
+        "vaccine_disagreement_percentage": 6.0
+    },
+    {
+        "country": "Slovenia",
+        "doctor_trust_percentage": 92.2,
+        "vaccine_disagreement_percentage": 12.0
+    },
+    {
+        "country": "Somalia",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Somaliland",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "South Africa",
+        "doctor_trust_percentage": 76.63,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "South America",
+        "doctor_trust_percentage": 74.0,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "South Asia",
+        "doctor_trust_percentage": 91.0,
+        "vaccine_disagreement_percentage": 2.0
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "South Korea",
+        "doctor_trust_percentage": 86.97,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "South Ossetia",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "South Sudan",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Southeast Asia",
+        "doctor_trust_percentage": 87.0,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Southern Africa",
+        "doctor_trust_percentage": 77.0,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Southern Europe",
+        "doctor_trust_percentage": 90.0,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Spain",
+        "doctor_trust_percentage": 97.09,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Sri Lanka",
+        "doctor_trust_percentage": 92.52,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Sudan",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Sweden",
+        "doctor_trust_percentage": 95.92,
+        "vaccine_disagreement_percentage": 12.0
+    },
+    {
+        "country": "Switzerland",
+        "doctor_trust_percentage": 94.92,
+        "vaccine_disagreement_percentage": 22.0
+    },
+    {
+        "country": "Syria",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Taiwan",
+        "doctor_trust_percentage": 92.84,
+        "vaccine_disagreement_percentage": 17.0
+    },
+    {
+        "country": "Tajikistan",
+        "doctor_trust_percentage": 94.32,
+        "vaccine_disagreement_percentage": 1.0
+    },
+    {
+        "country": "Tanzania",
+        "doctor_trust_percentage": 88.91,
+        "vaccine_disagreement_percentage": 2.0
+    },
+    {
+        "country": "Thailand",
+        "doctor_trust_percentage": 96.85,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Timor",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Togo",
+        "doctor_trust_percentage": 53.96,
+        "vaccine_disagreement_percentage": 25.0
+    },
+    {
+        "country": "Transnistria",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Tunisia",
+        "doctor_trust_percentage": 82.73,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Turkey",
+        "doctor_trust_percentage": 84.57,
+        "vaccine_disagreement_percentage": 6.0
+    },
+    {
+        "country": "Turkmenistan",
+        "doctor_trust_percentage": 92.46,
+        "vaccine_disagreement_percentage": 5.0
+    },
+    {
+        "country": "Tuscany",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Two Sicilies",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "USSR",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Uganda",
+        "doctor_trust_percentage": 79.62,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "Ukraine",
+        "doctor_trust_percentage": 69.83,
+        "vaccine_disagreement_percentage": 15.0
+    },
+    {
+        "country": "United Arab Emirates",
+        "doctor_trust_percentage": 77.09,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "United Kingdom",
+        "doctor_trust_percentage": 92.77,
+        "vaccine_disagreement_percentage": 9.0
+    },
+    {
+        "country": "United Korea",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "United States",
+        "doctor_trust_percentage": 93.41,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Uruguay",
+        "doctor_trust_percentage": 88.87,
+        "vaccine_disagreement_percentage": 11.0
+    },
+    {
+        "country": "Uzbekistan",
+        "doctor_trust_percentage": 94.74,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Venezuela",
+        "doctor_trust_percentage": 72.31,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "Vietnam",
+        "doctor_trust_percentage": 83.1,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "West Germany",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Western Africa",
+        "doctor_trust_percentage": 77.0,
+        "vaccine_disagreement_percentage": 8.0
+    },
+    {
+        "country": "Western Europe",
+        "doctor_trust_percentage": 94.0,
+        "vaccine_disagreement_percentage": 22.0
+    },
+    {
+        "country": "World",
+        "doctor_trust_percentage": 84.0,
+        "vaccine_disagreement_percentage": 7.0
+    },
+    {
+        "country": "Wuerttemburg",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Yemen",
+        "doctor_trust_percentage": 66.59,
+        "vaccine_disagreement_percentage": 3.0
+    },
+    {
+        "country": "Yemen Arab Republic",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Yemen People's Republic",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Yugoslavia",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Zambia",
+        "doctor_trust_percentage": 82.52,
+        "vaccine_disagreement_percentage": 10.0
+    },
+    {
+        "country": "Zanzibar",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    },
+    {
+        "country": "Zimbabwe",
+        "doctor_trust_percentage": 81.04,
+        "vaccine_disagreement_percentage": 4.0
+    },
+    {
+        "country": "\u00c5land Islands",
+        "doctor_trust_percentage": 0.0,
+        "vaccine_disagreement_percentage": 0.0
+    }
+]
