@@ -5,34 +5,45 @@
 		<link rel="stylesheet" href="style.css">
 		<script src="data.js"></script>
 		<script src="https://d3js.org/d3.v4.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 	</head>
 	<body>
-		<div class="section">
-			<h2>Muertes infantiles prevenibles con vacunacion</h2>
-			<div class="section_text">
-				<p>Este gráfico muestra el número de muertes en el mundo causadas por algunas de las enfermedades más comunes y graves que se pueden prevenir con vacunas. Hay más enfermedades para las que se dispone de vacunas en la actualidad e incluso hay más en fase de desarrollo. 
-				</p>
-				<p>La OMS publica una lista de 26 enfermedades para las que se dispone de vacunas entre las que se encuentran la encefalitis, neumocócica, varicela, hepatitis y rotavirus entre otros.</p>
-			</div>
-			<div id="preventable_child_deaths_from_vaccination" /> </div>
+
+		<div id="title" class="row">
+			<h1 class="title_text">La vacunación y el desarrollo económico</h1>
 		</div>
-		<div class="section">
-			<h2>La influencia de la pobreza y el desarollo economico en la vacunacion</h2>
-			<div class="section_text">
-				<p>Los ingresos estan estrechamente relacionados con la vacunacion, pues es un proceso extremadamente costoso que requiere por una parte de dinero y esfuerzo y por otra parte de inversion en educacion para concienciar a la poblacion.
+
+		<div class="section row">
+			<div class="section_text col-md-5">
+				<h2>La mortalidad infantil</h2>
+				<p>
+					La reducción de la mortalidad infantil es uno de los objetivos del milenio. No obstante, es de dominio público que para ello se necesita una infraestructura tecnológica, sanitaria y social de gran calibre para poder abordar este problema. Uno de los focos principales de acción es la vacunación de los niños para reducirla.
 				</p>
 				<p>
-					Para medir la cobertura de vacunacion, se suele emplear el indicador DTP3, que utiliza la administracion de vacunas para la difteria, tos ferina y el tétanos, ya que es un indicador de la solidez porque todas requieren de varias adminstraciones. 
+					Este gráfico muestra el número de muertes en el mundo causadas por algunas de las enfermedades más comunes y graves que se pueden prevenir con vacunas. Hay más enfermedades para las que se dispone de vacunas en la actualidad e incluso hay más en fase de desarrollo. 
 				</p>
 				<p>
-					Este gráfico muestra, como en los países pobres, la cobertura de vacunación es baja, llegando en algunos por debajo del 50%. En oposicion a todos los países ricos tienen tasas de cobertura de vacunación superiores al 90%.
-				</p>
-				<p>
-					Tambien se representa el esfuerzo de vacunacion, teniendo en cuenta el numero de personas vacunadas en cada pais, en funcion de la riqueza per capita del mismo, siendo aquellos paises que invierten mas esfuerzo, aquellos que se encuentran en una situacion de pobreza pero de gran crecimiento economico, como India y China. Lo que demuestra que segun un pais empieza a tener un desarollo economico, tambien empieza a presentar politicas de vacunacion mas solidas y consistentes.
-					Gracias a esta representacion en color, tambien se puede ver como los paises mas ricos no tienen que invertir tanto esfuerzo en vacunacion porque ya se ha invertido en la creacion de una infraestructura que favorezca la vacunacion tanto a nivel economico como educativo.
+					La OMS publica una lista de 26 enfermedades para las que se dispone de vacunas entre las que se encuentran la encefalitis, neumológica, varicela, hepatitis y rotavirus entre otros.
 				</p>
 			</div>
-			<div id="vaccination_vs_income"> </div>
+			<div id="preventable_child_deaths_from_vaccination" class="visualization col-md-5" align="center"> </div>
+		</div>
+
+		<div class="section row">
+			<div id="vaccination_vs_income" class="visualization col-md-6" align="center"> </div>
+			<div class="section_text col-md-6">
+				<h2>La influencia del desarrollo económico en la vacunación</h2>
+				<p>
+					Los ingresos están estrechamente relacionados con la vacunación, pues es un proceso extremadamente costoso que requiere por una parte de dinero y esfuerzo y por otra parte de inversión en educación para concienciar a la población.
+				</p>
+				<p>
+					Para medir la cobertura de vacunación, se suele emplear el indicador DTP3, que utiliza la administración de vacunas para la difteria, tos ferina y el tétanos, ya que es un indicador de la solidez porque todas requieren de varias administraciones.
+				</p>
+				<p>
+					Este gráfico muestra, como en los países pobres, la cobertura de vacunación es baja, llegando en algunos por debajo del 50%. En oposición a todos los países ricos tienen tasas de cobertura de vacunación superiores al 90%.
+					También se representa el esfuerzo de vacunación, teniendo en cuenta el número de personas vacunadas en cada país, en función de la riqueza per cápita del mismo, siendo aquellos países que invierten más esfuerzo, aquellos que se encuentran en una situación de pobreza pero de gran crecimiento económico, como India y China. Lo que demuestra que según un país empieza a tener un desarrollo económico, también empieza a presentar políticas de vacunación más sólidas y consistentes. Gracias a esta representación en color, también se puede ver como los países más ricos no tienen que invertir tanto esfuerzo en vacunación porque ya se ha invertido en la creación de una infraestructura que favorezca la vacunación tanto a nivel económico como educativo.
+				</p>
+			</div>
 		</div>
 	</body>
 	<script src="draw.js"></script>

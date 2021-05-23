@@ -5,9 +5,9 @@
 
 var data = getVaccinationVsIncome()
 
-var margin = {top: 20, right: 20, bottom: 30, left: 40},
+var margin = {top: 20, right: 60, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    height = 450 - margin.top - margin.bottom;
 
 var svg = d3.select("#vaccination_vs_income")
   .append("svg")
@@ -49,7 +49,7 @@ function color_metric(d){
 var color_domain_values = data.map(function(d){ return color_metric(d); });
 var min_c_value = d3.min(color_domain_values);
 var max_c_value = d3.max(color_domain_values);
-var color = d3.scaleLinear().domain([min_c_value,max_c_value]).range(["#6ed48f", "#63a9e0"])
+var color = d3.scalePow().domain([min_c_value,max_c_value]).range(["#ff77aa", "#77aaff"])
 
 // add the tooltip area to the webpage
 var tooltip = d3.select("body").append("div").attr("class", "tooltip").style("opacity", 0);
@@ -136,16 +136,16 @@ data = data.sort(function (a, b) {
 }).slice(-numOfCountries)
 
 // set color scale and assign color id
-var c = d3.scaleLinear().domain([1,numOfCountries]).range(["#4d1414", "#b40d0d"])
+var c = d3.scaleLinear().domain([1,numOfCountries]).range(["#77aaff", "#ff77aa"])
 
 data.forEach(function (value, i) {
     value.color = i;
 });
 
 // set the dimensions and margins of the graph
-var margin = {top: 20, right: 20, bottom: 30, left: 40},
+var margin = {top: 20, right: 20, bottom: 30, left: 180},
     width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    height = 350 - margin.top - margin.bottom;
 
 // set the ranges
 var y = d3.scaleBand()

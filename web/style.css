@@ -5,13 +5,18 @@
   shape-rendering: crispEdges;
 }
 
+.axis text {
+  font-family: Lato;
+  font-size: 13px;
+}
+
 .dot {
   stroke: #000;
 }
 
 .tooltip {
   position: absolute;
-  width: 300px;
+  width: 350px;
   height: 80px;
   pointer-events: none;
   background-color: #FFFFFF;
@@ -19,4 +24,33 @@
   border-width: 1px;
   border-radius: 5px;
   padding: 10px;
+}
+
+#title {
+	background-color: #77aaff;
+}
+
+.section_text{
+  text-align: justify; 
+  font-size: 18px;
+
+}
+
+.title_text{
+	text-align: center;
+	color: white;
+}
+
+.section {
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.visualization{
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+body {
+  overflow: hidden; /* Hide scrollbars */
 }
