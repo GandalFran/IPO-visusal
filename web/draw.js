@@ -21,14 +21,14 @@ var vaccination_rate_values = data.map(function(d){ return d.gdp_per_capita; });
 var min_x_value = d3.min(vaccination_rate_values);
 var max_x_value = d3.max(vaccination_rate_values);
 console.log(min_x_value)
-var x_axis = d3.scaleLog().domain([min_x_value, max_x_value]).range([ 20, width-30 ]);
+var x_axis = d3.scaleLog().domain([min_x_value, max_x_value]).range([ 30, width-30 ]);
 svg.append("g").attr("transform", "translate(0," + height + ")").call(d3.axisBottom(x_axis));
 
 // setup y
 var gdp_per_capita_values = data.map(function(d){ return d.vaccine_coverage; });
 var min_y_value = d3.min(gdp_per_capita_values) - 10;
 var max_y_value = d3.max(gdp_per_capita_values);
-var y_axis = d3.scaleLinear().domain([min_y_value, max_y_value]).range([ height, 0 ]);
+var y_axis = d3.scaleLinear().domain([min_y_value, max_y_value]).range([ height-30, 30 ]);
 svg.append("g").call(d3.axisLeft(y_axis));
 
 // setup radius
@@ -158,7 +158,7 @@ var x = d3.scaleLinear()
 // append the svg object to the body of the page
 // append a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#preventable_child_deaths_from_vaccination").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
