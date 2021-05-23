@@ -63,7 +63,7 @@ svg.append("g")
     .attr("x", width)
     .attr("y", -6)
     .style("text-anchor", "end")
-    .text("GDP per capita (2017)");
+    .text("GDP per cápita (2017)");
 
 // y-axis
 svg.append("g")
