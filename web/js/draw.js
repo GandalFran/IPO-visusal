@@ -1,12 +1,24 @@
 
+function getWidth() {
+  return Math.max(
+    document.body.scrollWidth,
+    document.documentElement.scrollWidth,
+    document.body.offsetWidth,
+    document.documentElement.offsetWidth,
+    document.documentElement.clientWidth
+  );
+}
+
+function plotAll(){
+  d3.select("#vaccination_vs_income").selectAll("*").remove();
+  d3.select("#preventable_child_deaths_from_vaccination").selectAll("*").remove();
 // ------------------------------------------------------------------
 // vaccination vs income
 // ------------------------------------------------------------------
-
 var data = getVaccinationVsIncome()
 
 var margin = {top: 20, right: 60, bottom: 30, left: 40},
-    width = 960 - margin.left - margin.right,
+    width = Math.trunc(getWidth()*0.51) - margin.left - margin.right,
     height = 450 - margin.top - margin.bottom;
 
 var svg = d3.select("#vaccination_vs_income")
@@ -142,7 +154,7 @@ data.forEach(function (value, i) {
 
 // set the dimensions and margins of the graph
 var margin = {top: 20, right: 20, bottom: 30, left: 180},
-    width = 960 - margin.left - margin.right,
+    width = Math.trunc(getWidth()*0.47) - margin.left - margin.right,
     height = 350 - margin.top - margin.bottom;
 
 // set the ranges
@@ -194,3 +206,7 @@ var svg = d3.select("#preventable_child_deaths_from_vaccination").append("svg")
   // add the y Axis
   svg.append("g")
       .call(d3.axisLeft(y));
+}
+
+window.onload = plotAll;
+window.onresize = plotAll;

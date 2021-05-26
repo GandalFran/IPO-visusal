@@ -27,7 +27,7 @@
 }
 
 #title {
-	background-color: #77aaff;
+  background-color: #77aaff;
 }
 
 .section_text{
@@ -37,20 +37,16 @@
 }
 
 .title_text{
-	text-align: center;
-	color: white;
+  text-align: center;
+  color: white;
 }
 
 .section {
-	padding-left: 1%;
-	padding-right: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 
 .visualization{
-	padding-left: 1%;
-	padding-right: 1%;
-}
-
-body {
-  overflow: hidden; /* Hide scrollbars */
+  padding-left: 1%;
+  padding-right: 1%;
 }
